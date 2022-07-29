@@ -1,2 +1,2 @@
-# pandas-exercise
-Python Pandas exercise
+# Pandas
+Bare minimum pandas 🐼
